@@ -1,5 +1,7 @@
 # Night Raccoon 🦝
 
+<p style="color:#f29718"">This theme is in early Development</p>
+
 A theme based on the `Ayu One Dark` and `One Dark Pro` themes.
 
 - https://github.com/RaccoonishDeveloper/Night-Raccoon-Theme
