@@ -7,4 +7,7 @@ A theme based on the `Ayu One Dark` and `One Dark Pro` themes.
 Activation:
 
 - go to `Preferences > Color Theme > Night Raccoon`.
-  ![Example](image.png)
+
+# Screenshots
+
+![Example](image.png)
