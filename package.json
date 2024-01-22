@@ -3,12 +3,26 @@
   "displayName": "Night Raccoon",
   "description": "A Dark Theme created due to a bug encountered in the theme I was using",
   "version": "0.0.1",
+  "publisher": "RaccoonishDeveloper",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RaccoonishDeveloper/Night-Raccoon-Theme.git"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "raccoon",
+    "one dark",
+    "dark theme"
+  ],
+  "homepage": "https://github.com/RaccoonishDeveloper/Night-Raccoon-Theme",
+  "icon": "./assets/raccoon.png",
   "contributes": {
     "themes": [
       {

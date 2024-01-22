@@ -1,16 +1,10 @@
-# night-raccoon README
+# Night Raccoon 🦝
 
-## Working with Markdown
+A theme based on the `Ayu One Dark` and `One Dark Pro` themes.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+- https://github.com/RaccoonishDeveloper/Night-Raccoon-Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Activation:
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+- go to `Preferences > Color Theme > Night Raccoon`.
+  ![Example](image.png)
