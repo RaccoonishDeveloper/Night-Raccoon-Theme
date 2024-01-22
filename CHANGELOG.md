@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "night-raccoon" extension will be documented in this file.
+#0.1.5 – 23/01/2024
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+# -Most updated version
