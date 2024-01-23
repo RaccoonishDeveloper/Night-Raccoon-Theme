@@ -23,7 +23,7 @@
     "dark"
   ],
   "homepage": "https://github.com/RaccoonishDeveloper/Night-Raccoon-Theme",
-  "icon": "./assets/raccoon.png",
+  "icon": "./assets/icon.png",
   "contributes": {
     "themes": [
       {
