@@ -1,6 +1,6 @@
 # Night Raccoon 🦝
 
-<p style="color:red"">This theme is in early Development</p>
+<span style="color:red">This theme is in early Development</span>
 
 A theme based on the `Ayu One Dark` and `One Dark Pro` themes.
 
