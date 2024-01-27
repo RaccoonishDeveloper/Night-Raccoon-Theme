@@ -1881,6 +1881,7 @@
     "panelTitle.inactiveForeground": "#425866",
     "badge.background": "#2e363c",
     "badge.foreground": "#ffffff",
+    "terminal.integrated.cursorStyle": "line",
     "terminal.foreground": "#C5C5C5",
     "terminal.selectionBackground": "#abb2bf30",
     "terminalCursor.background": "#abb2bf30",
